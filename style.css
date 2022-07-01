@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sum{
+    border:2px solid red;
+    width: 300px;
+    text-align: center;
+   
+}
+.multiplication{
+    border:2px solid green;
+    width: 300px;
+    text-align: center;
+}
+input{
+    border:2px solid red;
+    width: 45px;
+    margin-bottom: 10px;
+}
+h2{
+ 
+    margin: 10px 0 15px 0;
+}
